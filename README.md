@@ -21,6 +21,7 @@ Kubernetes
 - https://kubernetes.io/docs/tasks/tools/
 - https://kubernetes.io/docs/tasks/tools/#kubectl  
 - https://kubernetes.io/docs/reference/kubectl/  
+- https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/  
 
 Minikube   
 - https://minikube.sigs.k8s.io/docs/  
