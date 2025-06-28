@@ -43,7 +43,8 @@ Kubernetes Explained - (Channel: IBM Technology)
 
 DOCKER
 
-Docker hub    
+Docker   
+- https://www.docker.com  
 - https://hub.docker.com  
 
 What is DOCKER? (Channel: TutorialsPoint)    
