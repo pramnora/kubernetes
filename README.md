@@ -21,6 +21,9 @@ so, most definitely, I'm deeply interested in learning more...
 Do NOT Learn Kubernetes Without Knowing These Concepts... - (Channel: Travis Media)    
 - https://www.youtube.com/watch?v=wXuSqFJVNQA
 
+Kubernetes Explained in 15 Minutes | Hands On (2024 Edition) - (Channel: Travis Media)  
+- https://www.youtube.com/watch?v=r2zuL9MW6wc  
+
 Kubernetes Explained - (Channel: IBM Technology)  
 - https://www.youtube.com/watch?v=aSrqRSk43lY
 
