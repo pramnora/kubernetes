@@ -18,7 +18,8 @@ so, most definitely, I'm deeply interested in learning more...
 
 Kubernetes    
 - https://kubernetes.io  
-- https://kubernetes.io/docs/tasks/tools/  
+- https://kubernetes.io/docs/tasks/tools/
+- https://kubernetes.io/docs/tasks/tools/#kubectl  
 
 Minikube   
 - https://minikube.sigs.k8s.io/docs/  
