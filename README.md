@@ -10,7 +10,7 @@
 Personally speaking, I've never used Kubernetes before...?    
 However, it's a *buzzword* piece of technology that I keep on hearing about,    
 and, really quite endlessly, again and again;    
-so, I most definitely interested in learning more...  
+so, most definitely, I'm deeply interested in learning more...  
 
 -----
 
