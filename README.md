@@ -27,7 +27,13 @@ Kubernetes Explained in 15 Minutes | Hands On (2024 Edition) - (Channel: Travis 
 Kubernetes Explained - (Channel: IBM Technology)  
 - https://www.youtube.com/watch?v=aSrqRSk43lY
 
-What is DOCKER? (Channel: TutorialsPoint)  
-- https://www.youtube.com/shorts/CIR6mZENrvE
- 
+------ 
 
+DOCKER
+
+Docker hub    
+- https://hub.docker.com  
+
+What is DOCKER? (Channel: TutorialsPoint)    
+- https://www.youtube.com/shorts/CIR6mZENrvE  
+ 
