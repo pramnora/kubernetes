@@ -16,8 +16,14 @@ so, most definitely, I'm deeply interested in learning more...
 
 # Links  
 
-Kubernetes  
-- https://kubernetes.io
+Kubernetes    
+- https://kubernetes.io  
+- https://kubernetes.io/docs/tasks/tools/  
+
+Minikube   
+- https://minikube.sigs.k8s.io/docs/  
+
+-----
 
 ## YouTube  
 
